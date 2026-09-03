@@ -1,0 +1,59 @@
+about:
+  description: KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+  license: Apache-2.0
+  homepage: https://docs.kubelinter.io/
+  head: ea3abb8
+  archived: false
+  latestVersion: v0.8.3
+  collectedAt: 2026-09-03T04:42:58Z
+timeline:
+  created: 2020-08-13
+  lastCommit: 2026-09-02
+  lastRelease: 2026-03-10
+popularity:
+  star: 3501
+  watcher: 35
+  fork: 274
+  release: 41
+  contributor: 96
+  pullRequest: 137
+  issue: 251
+language:
+  Go: 629779
+  Shell: 67140
+  Makefile: 3281
+  Dockerfile: 98
+totalLine: 700298
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 12
+    openPR: 4
+    closedIssue: 1
+    openIssue: 4
+    commit: 12
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 35
+    openPR: 12
+    closedIssue: 1
+    openIssue: 8
+    commit: 40
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 96
+    openPR: 14
+    closedIssue: 3
+    openIssue: 12
+    commit: 97
+  last360d:
+    since: 2025-09-08
+    release: 4
+    mergedPR: 179
+    openPR: 14
+    closedIssue: 8
+    openIssue: 15
+    commit: 176
