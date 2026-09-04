@@ -7,7 +7,7 @@ about:
   head: ea3abb8
   archived: false
   latestVersion: v0.8.3
-  collectedAt: 2026-09-04T19:46:30Z
+  collectedAt: 2026-09-04T20:53:51Z
 timeline:
   created: 2020-08-13
   lastCommit: 2026-09-02
@@ -83,6 +83,79 @@ total:
   openIssue: 80
   commit: 865
 ---
+path: /home/runner/.x-repo/github.com/stackrox/kube-linter
+collectedAt: 2026-09-04T20:53:52Z
+loc:
+  Go:
+    code: 21403
+    comments: 2014
+    blanks: 3045
+    files: 377
+  Json:
+    code: 14523
+    comments: 0
+    blanks: 0
+    files: 3
+  Yaml:
+    code: 5626
+    comments: 95
+    blanks: 35
+    files: 178
+  Sh:
+    code: 955
+    comments: 13
+    blanks: 294
+    files: 2
+  Css:
+    code: 113
+    comments: 8
+    blanks: 19
+    files: 1
+  Makefile:
+    code: 72
+    comments: 15
+    blanks: 24
+    files: 1
+  Pan:
+    code: 57
+    comments: 0
+    blanks: 5
+    files: 1
+  Html:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 6
+    comments: 2
+    blanks: 1
+    files: 1
+  Dockerfile:
+    code: 4
+    comments: 0
+    blanks: 3
+    files: 1
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1357
+    blanks: 978
+    files: 13
+  Text:
+    code: 0
+    comments: 22
+    blanks: 0
+    files: 1
+total:
+  code: 43454
+  comments: 3533
+  blanks: 4411
+  files: 582
 ---
 date: "2026-08-24"
 repo:
