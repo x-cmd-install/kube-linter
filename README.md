@@ -1,6 +1,24 @@
----
-owner-repo: stackrox/kube-linter
-desc:   KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices. 
----
-
 # kube-linter
+
+KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+
+- **Upstream**: <https://github.com/stackrox/kube-linter>
+- **Homepage**: <https://docs.kubelinter.io/>
+- **Latest release**: `v0.8.3` (2026-03-10)
+- **Last commit**: 2026-09-02
+- **License**: Apache-2.0
+- **Stars**: 3503 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
+
+## Installation
+
+```sh
+x install kube-linter
+```
+
+See <https://x-cmd.com/install/kube-linter> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:12:45Z._
