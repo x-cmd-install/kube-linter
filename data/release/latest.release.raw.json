@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 50492560,
       "digest": "sha256:d935e2bc89e272c74227cdc4ac4dba35f468e0e486e846e5892231a301c91a67",
-      "download_count": 140,
+      "download_count": 141,
       "created_at": "2026-03-10T13:17:33Z",
       "updated_at": "2026-03-10T13:17:36Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3807,
       "digest": "sha256:5f719ad9607bcef21580b4d135b44a5b0a6da78a53fa897747ddfea6d559d71a",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-03-10T13:17:39Z",
       "updated_at": "2026-03-10T13:17:39Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16763749,
       "digest": "sha256:c62e8af3c9df2557c7a3922119ea1b35597794737d1ccad493f63a0d66e7b8fc",
-      "download_count": 787,
+      "download_count": 790,
       "created_at": "2026-03-10T13:17:38Z",
       "updated_at": "2026-03-10T13:17:39Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 47712146,
       "digest": "sha256:662277a6a267ba2cb1371b56539a371872ef142b196fa0d87195e4213773cdf8",
-      "download_count": 1789,
+      "download_count": 1811,
       "created_at": "2026-03-10T13:17:33Z",
       "updated_at": "2026-03-10T13:17:36Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3709,
       "digest": "sha256:22dd09db36debfee973b605b6106d432842dddf9a6c948dd15a062728f6fc076",
-      "download_count": 1105,
+      "download_count": 1122,
       "created_at": "2026-03-10T13:17:39Z",
       "updated_at": "2026-03-10T13:17:39Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64.sigstore.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15250538,
       "digest": "sha256:6e3443a8ff8625a9fc31a38682c783988d7559018f7ff707a4f8c77c18c92f14",
-      "download_count": 3054,
+      "download_count": 3062,
       "created_at": "2026-03-10T13:17:38Z",
       "updated_at": "2026-03-10T13:17:39Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 49426594,
       "digest": "sha256:618d299a3e2839c8ca9d86fce0db617be0fba41f0fecbbbfb7fbf1c04299fae1",
-      "download_count": 255957,
+      "download_count": 258581,
       "created_at": "2026-03-10T13:17:33Z",
       "updated_at": "2026-03-10T13:17:36Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3756,
       "digest": "sha256:6aa9eafa4f8c8f7d9550fa56de0c6a3580e205c20107c25c75327729b4a652e8",
-      "download_count": 68980,
+      "download_count": 69972,
       "created_at": "2026-03-10T13:17:39Z",
       "updated_at": "2026-03-10T13:17:39Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux.sigstore.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 16468547,
       "digest": "sha256:1a6d8419b11971372971fdbc22682b684ebfb7cf1c39591662d1b6ca736c41df",
-      "download_count": 616245,
+      "download_count": 621864,
       "created_at": "2026-03-10T13:17:37Z",
       "updated_at": "2026-03-10T13:17:38Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 46334114,
       "digest": "sha256:9c39d35252e0dcafb16b26197b9e93ba578e44eb402c3c6660fc94e08f94094f",
-      "download_count": 8969,
+      "download_count": 8976,
       "created_at": "2026-03-10T13:17:36Z",
       "updated_at": "2026-03-10T13:17:38Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3713,
       "digest": "sha256:9872367ccffab4bb6ade4ebdc60463f7de7431c085085f44226e65dcc0463329",
-      "download_count": 776,
+      "download_count": 781,
       "created_at": "2026-03-10T13:17:40Z",
       "updated_at": "2026-03-10T13:17:40Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64.sigstore.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14587825,
       "digest": "sha256:802e1b09eabd08f6f0a060a6b8ab2bf7bc7e6bf4f673bb2692303704c84b3e22",
-      "download_count": 10463,
+      "download_count": 10688,
       "created_at": "2026-03-10T13:17:36Z",
       "updated_at": "2026-03-10T13:17:37Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 16916965,
       "digest": "sha256:27132f8505d156e3877c6235970f567f47bedf11102f79fd6780d4ab536f6525",
-      "download_count": 5738,
+      "download_count": 5741,
       "created_at": "2026-03-10T13:17:38Z",
       "updated_at": "2026-03-10T13:17:39Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-windows.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 14723631,
       "digest": "sha256:23e6bf5fe694219187c24a01692acdfcfb077aac821cb3d5bdf393f5a536f599",
-      "download_count": 421,
+      "download_count": 424,
       "created_at": "2026-03-10T13:17:36Z",
       "updated_at": "2026-03-10T13:17:37Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-windows_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 50684928,
       "digest": "sha256:8b0ccf51f18ab786fdcdede55046afc701a75c75122e046a2f0d3244bc91274a",
-      "download_count": 1557,
+      "download_count": 1569,
       "created_at": "2026-03-10T13:17:36Z",
       "updated_at": "2026-03-10T13:17:37Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter.exe"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 3850,
       "digest": "sha256:730f8960bd452558cdb8276e5dc510a2b5f9da41ed66879fe91a978afef77318",
-      "download_count": 297,
+      "download_count": 303,
       "created_at": "2026-03-10T13:17:39Z",
       "updated_at": "2026-03-10T13:17:40Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter.exe.sigstore.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 46899200,
       "digest": "sha256:344ddf355c0445851d1acd64905e9dd345e2360a80f4917a36050e72775f1b62",
-      "download_count": 399,
+      "download_count": 402,
       "created_at": "2026-03-10T13:17:33Z",
       "updated_at": "2026-03-10T13:17:35Z",
       "browser_download_url": "https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe"
