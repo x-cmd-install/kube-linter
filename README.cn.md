@@ -4,7 +4,7 @@
 
 KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
-![kube-linter](https://repo.x-cmd.io/kube-linter.svg)
+![kube-linter](https://repo.x-cmd.io/kube-linter.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,33 @@ x install kube-linter
 - **最新版本**: `v0.8.3` (2026-03-10)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 18 个
-- **发布时间**: 2026-03-10T13:17:40Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [kube-linter-darwin](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin) | 48.2 MiB | `native/darwin/x64` |
+| [kube-linter-darwin.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin.sigstore.json) | 3.7 KiB | `native/darwin/x64` |
+| [kube-linter-darwin.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin.tar.gz) | 16.0 MiB | `native/darwin/x64` |
+| [kube-linter-darwin_arm64](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64) | 45.5 MiB | `native/darwin/arm64` |
+| [kube-linter-darwin_arm64.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64.sigstore.json) | 3.6 KiB | `native/darwin/arm64` |
+| [kube-linter-darwin_arm64.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
+| [kube-linter-linux](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux) | 47.1 MiB | `other` |
+| [kube-linter-linux.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux.sigstore.json) | 3.7 KiB | `other` |
+| [kube-linter-linux.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux.tar.gz) | 15.7 MiB | `native/unknown` |
+| [kube-linter-linux_arm64](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64) | 44.2 MiB | `native/linux/arm64` |
+| [kube-linter-linux_arm64.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64.sigstore.json) | 3.6 KiB | `native/linux/arm64` |
+| [kube-linter-linux_arm64.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64.tar.gz) | 13.9 MiB | `native/linux/arm64` |
+| [kube-linter-windows.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-windows.tar.gz) | 16.1 MiB | `native/win/x64` |
+| [kube-linter-windows_arm64.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-windows_arm64.tar.gz) | 14.0 MiB | `native/win/arm64` |
+| [kube-linter.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter.exe) | 48.3 MiB | `other` |
+| [kube-linter.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter.exe.sigstore.json) | 3.8 KiB | `other` |
+| [kube-linter_arm64.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe) | 44.7 MiB | `other` |
+| [kube-linter_arm64.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe.sigstore.json) | 3.7 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 3,502 · **Fork**: 275 · **开放 issue**: 252 · **贡献者**: 96
+- **Star**: 3,504 · **Fork**: 275 · **开放 issue**: 252 · **贡献者**: 96
 
 ## 累计统计
 
@@ -72,4 +94,4 @@ kube-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:01:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:08Z._

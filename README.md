@@ -23,11 +23,33 @@ x install kube-linter
 - **Latest**: `v0.8.3` (2026-03-10)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
-- **Published**: 2026-03-10T13:17:40Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kube-linter-darwin](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin) | 48.2 MiB | `native/darwin/x64` |
+| [kube-linter-darwin.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin.sigstore.json) | 3.7 KiB | `native/darwin/x64` |
+| [kube-linter-darwin.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin.tar.gz) | 16.0 MiB | `native/darwin/x64` |
+| [kube-linter-darwin_arm64](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64) | 45.5 MiB | `native/darwin/arm64` |
+| [kube-linter-darwin_arm64.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64.sigstore.json) | 3.6 KiB | `native/darwin/arm64` |
+| [kube-linter-darwin_arm64.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
+| [kube-linter-linux](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux) | 47.1 MiB | `other` |
+| [kube-linter-linux.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux.sigstore.json) | 3.7 KiB | `other` |
+| [kube-linter-linux.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux.tar.gz) | 15.7 MiB | `native/unknown` |
+| [kube-linter-linux_arm64](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64) | 44.2 MiB | `native/linux/arm64` |
+| [kube-linter-linux_arm64.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64.sigstore.json) | 3.6 KiB | `native/linux/arm64` |
+| [kube-linter-linux_arm64.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-linux_arm64.tar.gz) | 13.9 MiB | `native/linux/arm64` |
+| [kube-linter-windows.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-windows.tar.gz) | 16.1 MiB | `native/win/x64` |
+| [kube-linter-windows_arm64.tar.gz](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter-windows_arm64.tar.gz) | 14.0 MiB | `native/win/arm64` |
+| [kube-linter.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter.exe) | 48.3 MiB | `other` |
+| [kube-linter.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter.exe.sigstore.json) | 3.8 KiB | `other` |
+| [kube-linter_arm64.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe) | 44.7 MiB | `other` |
+| [kube-linter_arm64.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe.sigstore.json) | 3.7 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 3,502 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
+- **Stars**: 3,504 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -68,8 +90,8 @@ Lowest-scoring checks:
 Install metadata for kube-linter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kube-linter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kube-linter.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kube-linter.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:01:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:07Z._
