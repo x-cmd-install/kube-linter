@@ -1,0 +1,330 @@
+- repo: arch
+  subrepo: extra
+  srcname: kube-linter
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+- repo: gentoo
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.3.0
+  origversion: null
+  status: legacy
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: gentoo
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: gentoo
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.7.5
+  origversion: null
+  status: legacy
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: homebrew
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: Static analysis tool for Kubernetes YAML files and Helm charts
+- repo: homebrew
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Static analysis tool for Kubernetes YAML files and Helm charts
+- repo: liguros_stable
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.3.0
+  origversion: null
+  status: legacy
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_stable
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.7.5
+  origversion: null
+  status: outdated
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.7.5
+  origversion: null
+  status: legacy
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/kube-linter
+  visiblename: dev-util/kube-linter
+  version: 0.3.0
+  origversion: null
+  status: legacy
+  summary: kubernetes yaml and helm chart static analysis tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: macports
+  srcname: devel/kube-linter
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+  maintainers:
+    - judaew@macports
+    - judaew@github
+  licenses:
+    - Apache-2
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: kube-linter
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kube-linter
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kube-linter
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.6.8
+  origversion: null
+  status: outdated
+  summary: A static analysis tool that checks Kubernetes YAML files and Helm charts
+  maintainers:
+    - moritz@stackrox.com
+    - stephan@stehessel.de
+    - antoinelabarussias@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.6.8
+  origversion: null
+  status: outdated
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  maintainers:
+    - moritz@stackrox.com
+    - stephan@stehessel.de
+    - antoinelabarussias@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.6.8
+  origversion: null
+  status: outdated
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  maintainers:
+    - moritz@stackrox.com
+    - stephan@stehessel.de
+    - antoinelabarussias@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  maintainers:
+    - moritz@stackrox.com
+    - stephan@stehessel.de
+    - antoinelabarussias@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  maintainers:
+    - moritz@stackrox.com
+    - stephan@stehessel.de
+    - antoinelabarussias@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  maintainers:
+    - moritz@stackrox.com
+    - stephan@stehessel.de
+    - antoinelabarussias@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: kube-linter
+  binnames:
+    - kube-linter
+    - kube-linter-debuginfo
+    - kube-linter-debugsource
+    - kube-linter-bash-completion
+    - kube-linter-fish-completion
+    - kube-linter-zsh-completion
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: 0.8.3-1.5
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: kube-linter
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: wakemeops
+  subrepo: secops
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.6.0
+  origversion: 0.6.0-1~ops2deb
+  status: outdated
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: secops
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.5.1
+  origversion: 0.5.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: secops
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.5.0
+  origversion: 0.5.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: secops
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.4.0
+  origversion: 0.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
