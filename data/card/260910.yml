@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.3"
   latestRelease: "v0.8.3"
   latestPrerelease: "0.0.1"
-  collectedAt: 2026-09-10T05:00:50Z
+  collectedAt: 2026-09-10T16:49:49Z
 timeline:
   created: 2020-08-13
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-10
   lastPrerelease: 2020-09-17
 popularity:
-  star: 3502
+  star: 3504
   watcher: 35
   fork: 275
   release: 41
@@ -86,7 +86,7 @@ total:
   commit: 867
 ---
 path: /home/runner/.x-repo/github.com/stackrox/kube-linter
-collectedAt: 2026-09-10T05:00:52Z
+collectedAt: 2026-09-10T16:49:52Z
 loc:
   Go:
     code: 21403
