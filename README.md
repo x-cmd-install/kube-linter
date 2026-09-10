@@ -12,6 +12,28 @@ KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm 
 x install kube-linter
 ```
 
+## Code insight
+
+Total: **42,787** lines of code across **561** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 21,403 | 2,014 | 3,045 | 377 |
+| Json | 14,523 | 0 | 0 | 3 |
+| Yaml | 5,626 | 95 | 35 | 178 |
+| Sh | 955 | 13 | 294 | 2 |
+| Css | 113 | 8 | 19 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.4 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+
 ## Source
 
 - **Upstream**: <https://github.com/stackrox/kube-linter>
@@ -23,6 +45,25 @@ x install kube-linter
 - **Latest**: `v0.8.3` (2026-03-10)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 3,504 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
+
+## Totals (cumulative)
+
+- **Releases**: 41 · **Merged PRs**: 854 · **Open PRs**: 14 · **Closed issues**: 171 · **Open issues**: 81 · **Commits**: 867
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 12 | 4 | 1 | 5 | 11 |
+| last60d | 2026-07-12 | 0 | 21 | 5 | 1 | 5 | 21 |
+| 90d | 2026-06-12 | 0 | 34 | 12 | 1 | 6 | 39 |
+| last180d | 2026-03-14 | 0 | 93 | 14 | 3 | 13 | 93 |
+| 360d | 2025-09-15 | 3 | 177 | 14 | 8 | 16 | 173 |
+| last720d | 2024-09-20 | 10 | 314 | 14 | 17 | 21 | 312 |
 
 ## Release assets
 
@@ -47,43 +88,16 @@ x install kube-linter
 | [kube-linter_arm64.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe) | 44.7 MiB | `other` |
 | [kube-linter_arm64.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe.sigstore.json) | 3.7 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 3,504 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
+Reported by **28** distros on [repology.org](https://repology.org/project/kube-linter). **13** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 41 · **Merged PRs**: 854 · **Open PRs**: 14 · **Closed issues**: 171 · **Open issues**: 81 · **Commits**: 867
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 12 | 4 | 1 | 5 | 11 |
-| 90d | 2026-06-12 | 0 | 34 | 12 | 1 | 6 | 39 |
-| 360d | 2025-09-15 | 3 | 177 | 14 | 8 | 16 | 173 |
-
-## Code size
-
-Total: **42,787** lines of code across **561** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 21,403 | 2,014 | 3,045 | 377 |
-| Json | 14,523 | 0 | 0 | 3 |
-| Yaml | 5,626 | 95 | 35 | 178 |
-| Sh | 955 | 13 | 294 | 2 |
-| Css | 113 | 8 | 19 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **7.4 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.8.3` | ✅ latest |
+| Homebrew | `0.8.3` | ✅ latest |
+| Nix unstable | `0.8.3` | ✅ latest |
+| openSUSE Tumbleweed | `0.8.3` | ✅ latest |
 
 ## Improve this data
 
@@ -94,4 +108,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:55:38Z._
