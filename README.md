@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,505 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
+- **Stars**: 3,506 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 12 | 4 | 1 | 4 | 12 |
-| last60d | 2026-07-15 | 0 | 22 | 5 | 1 | 5 | 22 |
-| 90d | 2026-06-15 | 0 | 35 | 12 | 1 | 6 | 40 |
-| last180d | 2026-03-17 | 0 | 94 | 14 | 3 | 13 | 94 |
-| 360d | 2025-09-18 | 3 | 176 | 14 | 8 | 16 | 174 |
-| last720d | 2024-09-23 | 10 | 315 | 14 | 17 | 21 | 313 |
+| 30d | 2026-08-15 | 0 | 12 | 4 | 1 | 4 | 11 |
+| last60d | 2026-07-16 | 0 | 22 | 5 | 1 | 5 | 22 |
+| 90d | 2026-06-16 | 0 | 35 | 12 | 1 | 6 | 38 |
+| last180d | 2026-03-18 | 0 | 93 | 14 | 3 | 13 | 91 |
+| 360d | 2025-09-19 | 3 | 176 | 14 | 8 | 16 | 173 |
+| last720d | 2024-09-24 | 10 | 315 | 14 | 17 | 21 | 313 |
 
 ## Release assets
 
@@ -88,17 +88,6 @@ Lowest-scoring checks:
 | [kube-linter_arm64.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe) | 44.7 MiB | `other` |
 | [kube-linter_arm64.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe.sigstore.json) | 3.7 KiB | `other` |
 
-## Distribution status
-
-Reported by **28** distros on [repology.org](https://repology.org/project/kube-linter). **13** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.8.3` | ✅ latest |
-| Homebrew | `0.8.3` | ✅ latest |
-| Nix unstable | `0.8.3` | ✅ latest |
-| openSUSE Tumbleweed | `0.8.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kube-linter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kube-linter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:09:45Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:24:51Z._
