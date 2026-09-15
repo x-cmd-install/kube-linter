@@ -14,13 +14,13 @@ x install kube-linter
 
 ## Code insight
 
-Total: **42,787** lines of code across **561** files in the top 5 languages.
+Total: **42,915** lines of code across **561** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,403 | 2,014 | 3,045 | 377 |
+| Go | 21,530 | 2,014 | 3,049 | 377 |
 | Json | 14,523 | 0 | 0 | 3 |
-| Yaml | 5,626 | 95 | 35 | 178 |
+| Yaml | 5,627 | 95 | 35 | 178 |
 | Sh | 955 | 13 | 294 | 2 |
 | Css | 113 | 8 | 19 | 1 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.8.3` (2026-03-10)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,506 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 96
+- **Stars**: 3,507 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 855 · **Open PRs**: 14 · **Closed issues**: 171 · **Open issues**: 81 · **Commits**: 868
+- **Releases**: 41 · **Merged PRs**: 856 · **Open PRs**: 13 · **Closed issues**: 172 · **Open issues**: 80 · **Commits**: 869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 12 | 4 | 1 | 4 | 11 |
-| last60d | 2026-07-16 | 0 | 22 | 5 | 1 | 5 | 22 |
-| 90d | 2026-06-16 | 0 | 35 | 12 | 1 | 6 | 38 |
-| last180d | 2026-03-18 | 0 | 93 | 14 | 3 | 13 | 91 |
-| 360d | 2025-09-19 | 3 | 176 | 14 | 8 | 16 | 173 |
-| last720d | 2024-09-24 | 10 | 315 | 14 | 17 | 21 | 313 |
+| 30d | 2026-08-16 | 0 | 12 | 4 | 1 | 4 | 12 |
+| last60d | 2026-07-17 | 0 | 22 | 5 | 1 | 5 | 23 |
+| 90d | 2026-06-17 | 0 | 34 | 11 | 1 | 6 | 39 |
+| last180d | 2026-03-19 | 0 | 92 | 13 | 3 | 13 | 92 |
+| 360d | 2025-09-20 | 3 | 177 | 13 | 8 | 16 | 174 |
+| last720d | 2024-09-25 | 10 | 316 | 13 | 18 | 20 | 314 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:24:51Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:31:09Z._
