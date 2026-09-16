@@ -14,11 +14,11 @@ x install kube-linter
 
 ## Code insight
 
-Total: **42,915** lines of code across **561** files in the top 5 languages.
+Total: **43,040** lines of code across **561** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,530 | 2,014 | 3,049 | 377 |
+| Go | 21,655 | 2,017 | 3,057 | 377 |
 | Json | 14,523 | 0 | 0 | 3 |
 | Yaml | 5,627 | 95 | 35 | 178 |
 | Sh | 955 | 13 | 294 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.8.3` (2026-03-10)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,507 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 97
+- **Stars**: 3,507 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 856 · **Open PRs**: 13 · **Closed issues**: 172 · **Open issues**: 80 · **Commits**: 869
+- **Releases**: 41 · **Merged PRs**: 858 · **Open PRs**: 11 · **Closed issues**: 173 · **Open issues**: 79 · **Commits**: 871
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 12 | 4 | 1 | 4 | 12 |
-| last60d | 2026-07-17 | 0 | 22 | 5 | 1 | 5 | 23 |
-| 90d | 2026-06-17 | 0 | 34 | 11 | 1 | 6 | 39 |
-| last180d | 2026-03-19 | 0 | 92 | 13 | 3 | 13 | 92 |
-| 360d | 2025-09-20 | 3 | 177 | 13 | 8 | 16 | 174 |
-| last720d | 2024-09-25 | 10 | 316 | 13 | 18 | 20 | 314 |
+| 30d | 2026-08-17 | 0 | 14 | 2 | 1 | 3 | 14 |
+| last60d | 2026-07-18 | 0 | 24 | 3 | 2 | 4 | 25 |
+| 90d | 2026-06-18 | 0 | 36 | 8 | 2 | 5 | 41 |
+| last180d | 2026-03-20 | 0 | 94 | 11 | 4 | 12 | 94 |
+| 360d | 2025-09-21 | 3 | 179 | 11 | 9 | 15 | 176 |
+| last720d | 2024-09-26 | 10 | 318 | 11 | 19 | 19 | 316 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:31:09Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:14:26Z._
