@@ -4,7 +4,7 @@
 
 KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
-![kube-linter](https://repo.x-cmd.io/kube-linter.svg)
+[![x-cmd/install — kube-linter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-linter.svg)](https://x-cmd.com/install/kube-linter)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install kube-linter
 
 ## Code insight
 
-Total: **43,040** lines of code across **561** files in the top 5 languages.
+Total: **43,305** lines of code across **563** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,655 | 2,017 | 3,057 | 377 |
+| Go | 21,907 | 2,060 | 3,080 | 379 |
 | Json | 14,523 | 0 | 0 | 3 |
-| Yaml | 5,627 | 95 | 35 | 178 |
+| Yaml | 5,640 | 95 | 35 | 178 |
 | Sh | 955 | 13 | 294 | 2 |
 | Css | 113 | 8 | 19 | 1 |
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,507 · **Forks**: 274 · **Open issues**: 252 · **Contributors**: 99
+- **Stars**: 3,508 · **Forks**: 274 · **Open issues**: 252 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 859 · **Open PRs**: 11 · **Closed issues**: 173 · **Open issues**: 79 · **Commits**: 872
+- **Releases**: 41 · **Merged PRs**: 861 · **Open PRs**: 9 · **Closed issues**: 176 · **Open issues**: 76 · **Commits**: 874
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 14 | 2 | 1 | 3 | 15 |
-| last60d | 2026-07-20 | 0 | 25 | 3 | 2 | 4 | 26 |
-| 90d | 2026-06-20 | 0 | 37 | 8 | 2 | 5 | 42 |
-| last180d | 2026-03-22 | 0 | 95 | 11 | 4 | 12 | 95 |
-| 360d | 2025-09-23 | 3 | 180 | 11 | 9 | 15 | 177 |
-| last720d | 2024-09-28 | 10 | 319 | 11 | 19 | 19 | 317 |
+| 30d | 2026-08-21 | 0 | 14 | 2 | 1 | 2 | 13 |
+| last60d | 2026-07-22 | 0 | 23 | 2 | 2 | 4 | 25 |
+| 90d | 2026-06-22 | 0 | 38 | 7 | 2 | 5 | 42 |
+| last180d | 2026-03-24 | 0 | 97 | 9 | 5 | 11 | 75 |
+| 360d | 2025-09-25 | 3 | 181 | 9 | 10 | 13 | 178 |
+| last720d | 2024-09-30 | 10 | 321 | 9 | 20 | 18 | 319 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:14:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:48Z._

@@ -4,7 +4,7 @@
 
 KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
-![kube-linter](https://repo.x-cmd.io/kube-linter.svg?lang=zh)
+[![x-cmd/install — kube-linter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-linter.svg?lang=zh)](https://x-cmd.com/install/kube-linter)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install kube-linter
 
 ## 代码洞察
 
-合计: **43,040** 行代码（覆盖前 5 种语言、共 **561** 个文件）。
+合计: **43,305** 行代码（覆盖前 5 种语言、共 **563** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 21,655 | 2,017 | 3,057 | 377 |
+| Go | 21,907 | 2,060 | 3,080 | 379 |
 | Json | 14,523 | 0 | 0 | 3 |
-| Yaml | 5,627 | 95 | 35 | 178 |
+| Yaml | 5,640 | 95 | 35 | 178 |
 | Sh | 955 | 13 | 294 | 2 |
 | Css | 113 | 8 | 19 | 1 |
 
@@ -48,22 +48,22 @@ x install kube-linter
 
 ## 流行度
 
-- **Star**: 3,507 · **Fork**: 274 · **开放 issue**: 252 · **贡献者**: 99
+- **Star**: 3,508 · **Fork**: 274 · **开放 issue**: 252 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 859 · **开放 PR**: 11 · **已关闭 issue**: 173 · **开放 issue**: 79 · **提交数**: 872
+- **发布数**: 41 · **已合并 PR**: 861 · **开放 PR**: 9 · **已关闭 issue**: 176 · **开放 issue**: 76 · **提交数**: 874
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 14 | 2 | 1 | 3 | 15 |
-| last60d | 2026-07-20 | 0 | 25 | 3 | 2 | 4 | 26 |
-| 90d | 2026-06-20 | 0 | 37 | 8 | 2 | 5 | 42 |
-| last180d | 2026-03-22 | 0 | 95 | 11 | 4 | 12 | 95 |
-| 360d | 2025-09-23 | 3 | 180 | 11 | 9 | 15 | 177 |
-| last720d | 2024-09-28 | 10 | 319 | 11 | 19 | 19 | 317 |
+| 30d | 2026-08-21 | 0 | 14 | 2 | 1 | 2 | 13 |
+| last60d | 2026-07-22 | 0 | 23 | 2 | 2 | 4 | 25 |
+| 90d | 2026-06-22 | 0 | 38 | 7 | 2 | 5 | 42 |
+| last180d | 2026-03-24 | 0 | 97 | 9 | 5 | 11 | 75 |
+| 360d | 2025-09-25 | 3 | 181 | 9 | 10 | 13 | 178 |
+| last720d | 2024-09-30 | 10 | 321 | 9 | 20 | 18 | 319 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ kube-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:14:28Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:16:49Z._
