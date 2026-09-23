@@ -4,7 +4,7 @@
 
 KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
-[![x-cmd/install — kube-linter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-linter.svg?lang=zh)](https://x-cmd.com/install/kube-linter)
+[![x-cmd/install — kube-linter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kube-linter.svg?lang=zh)](https://x-cmd.com/install/kube-linter)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install kube-linter
 
 ## 流行度
 
-- **Star**: 3,508 · **Fork**: 274 · **开放 issue**: 252 · **贡献者**: 101
+- **Star**: 3,510 · **Fork**: 275 · **开放 issue**: 252 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 861 · **开放 PR**: 11 · **已关闭 issue**: 176 · **开放 issue**: 76 · **提交数**: 874
+- **发布数**: 41 · **已合并 PR**: 861 · **开放 PR**: 12 · **已关闭 issue**: 176 · **开放 issue**: 76 · **提交数**: 874
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 14 | 4 | 1 | 1 | 13 |
-| last60d | 2026-07-24 | 0 | 23 | 4 | 2 | 4 | 25 |
-| 90d | 2026-06-24 | 0 | 35 | 9 | 2 | 5 | 42 |
-| last180d | 2026-03-26 | 0 | 90 | 11 | 5 | 11 | 75 |
-| 360d | 2025-09-27 | 3 | 181 | 11 | 10 | 13 | 178 |
-| last720d | 2024-10-02 | 10 | 320 | 11 | 20 | 18 | 319 |
+| 30d | 2026-08-24 | 0 | 14 | 5 | 1 | 1 | 13 |
+| last60d | 2026-07-25 | 0 | 23 | 5 | 2 | 4 | 25 |
+| 90d | 2026-06-25 | 0 | 34 | 10 | 2 | 5 | 42 |
+| last180d | 2026-03-27 | 0 | 89 | 12 | 5 | 11 | 75 |
+| 360d | 2025-09-28 | 3 | 181 | 12 | 10 | 13 | 178 |
+| last720d | 2024-10-03 | 10 | 320 | 12 | 20 | 18 | 318 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ kube-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:15:49Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:18:12Z._

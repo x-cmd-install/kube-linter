@@ -4,7 +4,7 @@
 
 KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
-[![x-cmd/install — kube-linter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-linter.svg)](https://x-cmd.com/install/kube-linter)
+[![x-cmd/install — kube-linter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kube-linter.svg)](https://x-cmd.com/install/kube-linter)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,508 · **Forks**: 274 · **Open issues**: 252 · **Contributors**: 101
+- **Stars**: 3,510 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 861 · **Open PRs**: 11 · **Closed issues**: 176 · **Open issues**: 76 · **Commits**: 874
+- **Releases**: 41 · **Merged PRs**: 861 · **Open PRs**: 12 · **Closed issues**: 176 · **Open issues**: 76 · **Commits**: 874
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 14 | 4 | 1 | 1 | 13 |
-| last60d | 2026-07-24 | 0 | 23 | 4 | 2 | 4 | 25 |
-| 90d | 2026-06-24 | 0 | 35 | 9 | 2 | 5 | 42 |
-| last180d | 2026-03-26 | 0 | 90 | 11 | 5 | 11 | 75 |
-| 360d | 2025-09-27 | 3 | 181 | 11 | 10 | 13 | 178 |
-| last720d | 2024-10-02 | 10 | 320 | 11 | 20 | 18 | 319 |
+| 30d | 2026-08-24 | 0 | 14 | 5 | 1 | 1 | 13 |
+| last60d | 2026-07-25 | 0 | 23 | 5 | 2 | 4 | 25 |
+| 90d | 2026-06-25 | 0 | 34 | 10 | 2 | 5 | 42 |
+| last180d | 2026-03-27 | 0 | 89 | 12 | 5 | 11 | 75 |
+| 360d | 2025-09-28 | 3 | 181 | 12 | 10 | 13 | 178 |
+| last720d | 2024-10-03 | 10 | 320 | 12 | 20 | 18 | 318 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:15:48Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:18:11Z._
