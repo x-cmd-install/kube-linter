@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,515 · **Forks**: 275 · **Open issues**: 252 · **Contributors**: 101
+- **Stars**: 3,516 · **Forks**: 277 · **Open issues**: 252 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 868 · **Open PRs**: 12 · **Closed issues**: 176 · **Open issues**: 76 · **Commits**: 881
+- **Releases**: 41 · **Merged PRs**: 868 · **Open PRs**: 13 · **Closed issues**: 176 · **Open issues**: 76 · **Commits**: 881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 16 | 4 | 0 | 1 | 16 |
-| last60d | 2026-08-02 | 0 | 26 | 5 | 2 | 4 | 28 |
-| 90d | 2026-07-03 | 0 | 38 | 5 | 2 | 5 | 39 |
-| last180d | 2026-04-04 | 0 | 80 | 12 | 5 | 11 | 79 |
-| 360d | 2025-10-06 | 3 | 186 | 12 | 10 | 13 | 183 |
-| last720d | 2024-10-11 | 10 | 324 | 12 | 19 | 17 | 322 |
+| 30d | 2026-09-02 | 0 | 12 | 5 | 0 | 1 | 16 |
+| last60d | 2026-08-03 | 0 | 26 | 6 | 2 | 4 | 28 |
+| 90d | 2026-07-04 | 0 | 38 | 6 | 2 | 5 | 39 |
+| last180d | 2026-04-05 | 0 | 80 | 13 | 5 | 11 | 79 |
+| 360d | 2025-10-07 | 3 | 186 | 13 | 10 | 13 | 183 |
+| last720d | 2024-10-12 | 10 | 324 | 13 | 19 | 17 | 322 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:12:20Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:53:58Z._
