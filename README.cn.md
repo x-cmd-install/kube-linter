@@ -32,7 +32,7 @@ x install kube-linter
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install kube-linter
 ## 发布
 
 - **最新版本**: `v0.8.3` (2026-03-10)
-- **最近提交**: 2026-10-14
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 18 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install kube-linter
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 869 · **开放 PR**: 14 · **已关闭 issue**: 176 · **开放 issue**: 77 · **提交数**: 882
+- **发布数**: 41 · **已合并 PR**: 870 · **开放 PR**: 14 · **已关闭 issue**: 176 · **开放 issue**: 77 · **提交数**: 883
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 8 | 6 | 0 | 1 | 5 |
-| last60d | 2026-08-21 | 0 | 22 | 7 | 1 | 3 | 25 |
-| 90d | 2026-07-22 | 0 | 31 | 7 | 2 | 5 | 33 |
-| last180d | 2026-04-23 | 0 | 70 | 14 | 4 | 11 | 69 |
-| 360d | 2025-10-25 | 3 | 177 | 14 | 8 | 14 | 179 |
-| last720d | 2024-10-30 | 10 | 320 | 14 | 18 | 18 | 320 |
+| 30d | 2026-09-21 | 0 | 9 | 4 | 0 | 1 | 6 |
+| last60d | 2026-08-22 | 0 | 23 | 7 | 1 | 3 | 26 |
+| 90d | 2026-07-23 | 0 | 32 | 7 | 2 | 5 | 34 |
+| last180d | 2026-04-24 | 0 | 71 | 14 | 4 | 11 | 70 |
+| 360d | 2025-10-26 | 3 | 178 | 14 | 8 | 14 | 180 |
+| last720d | 2024-10-31 | 10 | 321 | 14 | 18 | 18 | 321 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ kube-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:05:12Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:58:55Z._

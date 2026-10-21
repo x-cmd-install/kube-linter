@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.8.3` (2026-03-10)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-21
 - **Assets in release**: 18
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 869 · **Open PRs**: 14 · **Closed issues**: 176 · **Open issues**: 77 · **Commits**: 882
+- **Releases**: 41 · **Merged PRs**: 870 · **Open PRs**: 14 · **Closed issues**: 176 · **Open issues**: 77 · **Commits**: 883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 8 | 6 | 0 | 1 | 5 |
-| last60d | 2026-08-21 | 0 | 22 | 7 | 1 | 3 | 25 |
-| 90d | 2026-07-22 | 0 | 31 | 7 | 2 | 5 | 33 |
-| last180d | 2026-04-23 | 0 | 70 | 14 | 4 | 11 | 69 |
-| 360d | 2025-10-25 | 3 | 177 | 14 | 8 | 14 | 179 |
-| last720d | 2024-10-30 | 10 | 320 | 14 | 18 | 18 | 320 |
+| 30d | 2026-09-21 | 0 | 9 | 4 | 0 | 1 | 6 |
+| last60d | 2026-08-22 | 0 | 23 | 7 | 1 | 3 | 26 |
+| 90d | 2026-07-23 | 0 | 32 | 7 | 2 | 5 | 34 |
+| last180d | 2026-04-24 | 0 | 71 | 14 | 4 | 11 | 70 |
+| 360d | 2025-10-26 | 3 | 178 | 14 | 8 | 14 | 180 |
+| last720d | 2024-10-31 | 10 | 321 | 14 | 18 | 18 | 321 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:05:11Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:58:54Z._
