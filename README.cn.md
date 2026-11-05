@@ -26,13 +26,13 @@ x install kube-linter
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.4 / 10**
+总评分: **7.2 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kube-linter
 ## 发布
 
 - **最新版本**: `v0.8.3` (2026-03-10)
-- **最近提交**: 2026-10-28
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 3,528 · **Fork**: 279 · **开放 issue**: 254 · **贡献者**: 101
+- **Star**: 3,529 · **Fork**: 279 · **开放 issue**: 254 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 875 · **开放 PR**: 19 · **已关闭 issue**: 177 · **开放 issue**: 77 · **提交数**: 888
+- **发布数**: 41 · **已合并 PR**: 876 · **开放 PR**: 19 · **已关闭 issue**: 177 · **开放 issue**: 77 · **提交数**: 889
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 6 | 8 | 0 | 2 | 7 |
-| last60d | 2026-09-05 | 0 | 17 | 12 | 0 | 3 | 23 |
-| 90d | 2026-08-06 | 0 | 32 | 13 | 2 | 6 | 33 |
-| last180d | 2026-05-08 | 0 | 72 | 19 | 4 | 12 | 71 |
-| 360d | 2025-11-09 | 3 | 180 | 19 | 9 | 14 | 182 |
-| last720d | 2024-11-14 | 8 | 324 | 19 | 18 | 18 | 323 |
+| 30d | 2026-10-06 | 0 | 7 | 8 | 0 | 2 | 8 |
+| last60d | 2026-09-06 | 0 | 18 | 12 | 0 | 2 | 24 |
+| 90d | 2026-08-07 | 0 | 33 | 13 | 2 | 6 | 34 |
+| last180d | 2026-05-09 | 0 | 73 | 19 | 4 | 12 | 72 |
+| 360d | 2025-11-10 | 3 | 181 | 19 | 9 | 14 | 183 |
+| last720d | 2024-11-15 | 8 | 325 | 19 | 18 | 18 | 323 |
 
 ## Release 资产
 
@@ -108,4 +108,4 @@ kube-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:36:10Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:00:55Z._

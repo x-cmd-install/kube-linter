@@ -26,13 +26,13 @@ Total: **43,504** lines of code across **564** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.4 / 10**
+Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.8.3` (2026-03-10)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-04
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,528 · **Forks**: 279 · **Open issues**: 254 · **Contributors**: 101
+- **Stars**: 3,529 · **Forks**: 279 · **Open issues**: 254 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 875 · **Open PRs**: 19 · **Closed issues**: 177 · **Open issues**: 77 · **Commits**: 888
+- **Releases**: 41 · **Merged PRs**: 876 · **Open PRs**: 19 · **Closed issues**: 177 · **Open issues**: 77 · **Commits**: 889
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 6 | 8 | 0 | 2 | 7 |
-| last60d | 2026-09-05 | 0 | 17 | 12 | 0 | 3 | 23 |
-| 90d | 2026-08-06 | 0 | 32 | 13 | 2 | 6 | 33 |
-| last180d | 2026-05-08 | 0 | 72 | 19 | 4 | 12 | 71 |
-| 360d | 2025-11-09 | 3 | 180 | 19 | 9 | 14 | 182 |
-| last720d | 2024-11-14 | 8 | 324 | 19 | 18 | 18 | 323 |
+| 30d | 2026-10-06 | 0 | 7 | 8 | 0 | 2 | 8 |
+| last60d | 2026-09-06 | 0 | 18 | 12 | 0 | 2 | 24 |
+| 90d | 2026-08-07 | 0 | 33 | 13 | 2 | 6 | 34 |
+| last180d | 2026-05-09 | 0 | 73 | 19 | 4 | 12 | 72 |
+| 360d | 2025-11-10 | 3 | 181 | 19 | 9 | 14 | 183 |
+| last720d | 2024-11-15 | 8 | 325 | 19 | 18 | 18 | 323 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:36:09Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:00:54Z._
