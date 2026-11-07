@@ -1,12 +1,3 @@
-- repo: scoop
-  subrepo: main
-  binname: kube-linter
-  visiblename: kube-linter
-  version: 0.8.3
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: kube-linter
@@ -156,23 +147,23 @@
   srcname: kube-linter
   binname: kube-linter
   visiblename: kube-linter
-  version: 0.6.4
-  origversion: 0.6.4-1
-  status: outdated
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
   summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: kube-linter
   binname: kube-linter
   visiblename: kube-linter
-  version: 0.6.4
-  origversion: 0.6.4-1
-  status: outdated
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
   summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: kube-linter
@@ -290,6 +281,15 @@
   origversion: 0.8.3-1
   status: newest
   summary: Static analysis tool that checks Kubernetes YAML files and Helm charts
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: kube-linter
+  visiblename: kube-linter
+  version: 0.8.3
+  origversion: null
+  status: newest
   licenses:
     - Apache-2.0
 - repo: slackbuilds
