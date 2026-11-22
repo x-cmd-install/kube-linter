@@ -42,18 +42,18 @@ Total: **45,695** lines of code across **578** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 881 · **Open PRs**: 23 · **Closed issues**: 177 · **Open issues**: 78 · **Commits**: 894
+- **Releases**: 41 · **Merged PRs**: 881 · **Open PRs**: 24 · **Closed issues**: 177 · **Open issues**: 78 · **Commits**: 894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 8 | 10 | 0 | 2 | 11 |
-| last60d | 2026-09-22 | 0 | 18 | 14 | 0 | 3 | 20 |
-| 90d | 2026-08-23 | 0 | 32 | 18 | 1 | 4 | 37 |
-| last180d | 2026-05-25 | 0 | 68 | 22 | 4 | 11 | 70 |
-| 360d | 2025-11-26 | 3 | 177 | 23 | 9 | 15 | 178 |
-| last720d | 2024-12-01 | 8 | 323 | 23 | 18 | 19 | 323 |
+| 30d | 2026-10-23 | 0 | 8 | 11 | 0 | 2 | 6 |
+| last60d | 2026-09-23 | 0 | 15 | 15 | 0 | 3 | 16 |
+| 90d | 2026-08-24 | 0 | 32 | 19 | 1 | 4 | 33 |
+| last180d | 2026-05-26 | 0 | 68 | 23 | 4 | 11 | 69 |
+| 360d | 2025-11-27 | 3 | 177 | 24 | 9 | 15 | 177 |
+| last720d | 2024-12-02 | 8 | 323 | 24 | 18 | 19 | 323 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:24:46Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:18:56Z._
