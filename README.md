@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.8.3` (2026-03-10)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-25
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,531 · **Forks**: 285 · **Open issues**: 255 · **Contributors**: 101
+- **Stars**: 3,532 · **Forks**: 285 · **Open issues**: 255 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 881 · **Open PRs**: 25 · **Closed issues**: 177 · **Open issues**: 78 · **Commits**: 894
+- **Releases**: 41 · **Merged PRs**: 882 · **Open PRs**: 25 · **Closed issues**: 177 · **Open issues**: 78 · **Commits**: 895
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 8 | 10 | 0 | 1 | 6 |
-| last60d | 2026-09-26 | 0 | 14 | 16 | 0 | 3 | 16 |
-| 90d | 2026-08-27 | 0 | 28 | 19 | 1 | 4 | 33 |
-| last180d | 2026-05-29 | 0 | 65 | 24 | 4 | 10 | 69 |
-| 360d | 2025-11-30 | 3 | 177 | 25 | 9 | 15 | 177 |
-| last720d | 2024-12-05 | 8 | 322 | 25 | 18 | 19 | 322 |
+| 30d | 2026-10-27 | 0 | 9 | 9 | 0 | 1 | 7 |
+| last60d | 2026-09-27 | 0 | 15 | 16 | 0 | 3 | 17 |
+| 90d | 2026-08-28 | 0 | 29 | 19 | 1 | 4 | 34 |
+| last180d | 2026-05-30 | 0 | 66 | 24 | 3 | 10 | 70 |
+| 360d | 2025-12-01 | 3 | 178 | 25 | 9 | 15 | 178 |
+| last720d | 2024-12-06 | 8 | 323 | 25 | 17 | 19 | 323 |
 
 ## Release assets
 
@@ -88,6 +88,17 @@ Lowest-scoring checks:
 | [kube-linter_arm64.exe](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe) | 44.7 MiB | `other` |
 | [kube-linter_arm64.exe.sigstore.json](https://github.com/stackrox/kube-linter/releases/download/v0.8.3/kube-linter_arm64.exe.sigstore.json) | 3.7 KiB | `other` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/kube-linter). **14** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.8.3` | ✅ latest |
+| Homebrew | `0.8.3` | ✅ latest |
+| Nix unstable | `0.8.3` | ✅ latest |
+| openSUSE Tumbleweed | `0.8.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for kube-linter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kube-linter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +108,4 @@ Install metadata for kube-linter lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:01:26Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:50Z._
